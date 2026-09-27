@@ -1,0 +1,11 @@
+#Сборка
+build/
+compile_commands.json
+.cache/
+
+#MacOS
+.DS_Store
+
+#Редакторы
+.idea/
+*.swp
